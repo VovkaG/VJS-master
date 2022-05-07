@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    margin: 50px;
+}
+
+
+.chestotnaImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 40%;
+    margin-bottom: 10%;
+}
